@@ -139,6 +139,7 @@ Test Loss: 0.1623
 
 ## GitHub Repository
 
+
 ```bash
 https://github.com/SymbolPamnani/AI-Brain-Tumor-Detection-Project```
 
@@ -151,7 +152,3 @@ https://hub.docker.com/r/symbolpamnani/brain-tumor-api
 ```
 
 ---
-
-## Author
-
-Semester Project for CSC4101 Artificial Intelligence.
