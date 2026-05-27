@@ -1,0 +1,59 @@
+1. What is API?
+
+API stands for Application Programming Interface. It allows two software applications to communicate with each other. APIs are used to send and receive data between applications. In Machine Learning projects, APIs help users interact with trained models through web applications or other software systems.
+
+2. Difference Between Flask and FastAPI
+
+Flask is a lightweight Python web framework used to create web applications and APIs easily. It is simple and beginner-friendly.
+
+FastAPI is a modern Python framework used for building high-performance APIs. It is faster than Flask and supports automatic API documentation and asynchronous programming.
+
+Main Difference:
+
+Flask is simple and easy for beginners.
+FastAPI provides better speed and performance.
+3. What is REST Framework for APIs?
+
+REST stands for Representational State Transfer. REST framework is a method used to build APIs using standard HTTP methods such as GET, POST, PUT, and DELETE.
+
+REST APIs allow communication between client and server over the internet. They are commonly used in web and mobile applications.
+
+4. What are Microservices and How ML Developers Use Them?
+
+Microservices are small independent services that work together in a software system. Each service performs a specific task.
+
+Machine Learning developers use microservices to separate model training, inference, database management, and frontend systems. This makes applications easier to manage, update, and scale.
+
+5. What is Docker and How Do ML Developers Use It?
+
+Docker is a platform used to package applications and their dependencies into containers.
+
+Machine Learning developers use Docker to ensure their ML applications run consistently on different systems without dependency issues.
+
+6. What is a Dockerfile and Why Do We Create It?
+
+A Dockerfile is a text file that contains instructions to build a Docker image.
+
+It is used to define:
+
+application dependencies
+Python packages
+commands needed to run the application
+
+Dockerfile helps automate the deployment process.
+
+7. Difference Between Docker Image and Docker Container
+
+Docker Image:
+A Docker image is a blueprint or template containing the application and all required dependencies.
+
+Docker Container:
+A Docker container is a running instance of a Docker image.
+
+In simple words:
+
+Image = Template
+Container = Running Application
+Conclusion
+
+In this project, a pretrained MobileNetV2 model was used for Brain Tumor Detection using MRI images. The model was trained, evaluated, and deployed using Flask API and Docker technologies.
