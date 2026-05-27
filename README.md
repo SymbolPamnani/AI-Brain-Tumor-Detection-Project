@@ -139,20 +139,12 @@ Test Loss: 0.1623
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
-
-Example:
-
 ```bash
 https://github.com/SymbolPamnani/AI-Brain-Tumor-Detection-Project```
 
 ---
 
 ## Docker Hub Link
-
-Add your Docker Hub image link here.
-
-Example:
 
 ```bash
 https://hub.docker.com/r/symbolpamnani/brain-tumor-api
